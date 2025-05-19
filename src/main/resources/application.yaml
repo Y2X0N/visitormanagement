@@ -1,0 +1,6 @@
+server:
+  port: 9010
+  servlet:
+    session:
+      tracking-modes:
+        - cookie
